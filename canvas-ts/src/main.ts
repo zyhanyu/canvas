@@ -240,6 +240,7 @@ const instance = new Blackboard()
 
 instance.clear().setBgColor('#16a085').setLineColor().erase().draw().short()
 
+// git push https://gethub.com/culverthanyu/canvas.git main
 
 
 
